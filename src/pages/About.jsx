@@ -29,7 +29,7 @@ const About = () => {
           <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel voluptas illum rerum provident iure inventore.</p>
         </div>
         <div className='border px-10 md:px-16 sm:py-16 flex flex-col gap-5 text-[15px] hover:bg-primary hover:text-white transtion-all duration-300 text-gray-600 cursor-pointer'>
-          <b> Personalizatino</b>
+          <b> Personalization</b>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum in adipisci sint! Iste, quaerat veniam!</p>
         </div>
         
